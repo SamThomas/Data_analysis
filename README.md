@@ -12,3 +12,5 @@ support for many output types, including Swing components, image files (includin
 * JFreeChart is "open source" or, more specifically, free software. 
 
 It is distributed under the terms of the GNU Lesser General Public Licence (LGPL), which permits use in proprietary applications.
+
+![Chart](http://wiki.openoffice.org/w/images/4/40/Chart2_Exploded3DPies.png "Example of 3D chart")
