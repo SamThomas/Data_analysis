@@ -1,7 +1,7 @@
 **********************************************
-# Data analysis program using JFreeChart
+# Data analysis program using Java and JFreeChart
 ******************************************
-![Chart](http://wiki.openoffice.org/w/images/4/40/Chart2_Exploded3DPies.png "Example of 3D chart")
+![Chart](http://icons.iconarchive.com/icons/double-j-design/ravenna-3d/256/Pie-Chart-icon.png "Example of 3D chart") 
 ## What is JFreeChart?
 
 JFreeChart is a free 100% Java chart library that makes it easy for developers to display professional quality charts in their applications. JFreeChart's extensive feature set includes:
@@ -12,4 +12,3 @@ support for many output types, including Swing components, image files (includin
 * JFreeChart is "open source" or, more specifically, free software. 
 
 It is distributed under the terms of the GNU Lesser General Public Licence (LGPL), which permits use in proprietary applications.
-
