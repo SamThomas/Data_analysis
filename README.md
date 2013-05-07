@@ -13,4 +13,3 @@ support for many output types, including Swing components, image files (includin
 
 It is distributed under the terms of the GNU Lesser General Public Licence (LGPL), which permits use in proprietary applications.
 
-<embed wmode="opaque" src="http://static.ning.com/socialnetworkmain/widgets/index/swf/badge.swf?xn_version=124632088" FlashVars="backgroundColor=0xFFFFFF&textColor=0x283F4B&config=http%3A%2F%2Fmodeldrivensoftware.net%2Fmain%2Fbadge%2FshowPlayerConfig%3Fxg_source%3Dbadge%26size%3Dlarge%26username%3D1hnetpej1wgw7" width="206" height="242" bgColor="#FFFFFF" scale="noscale" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed><br /><small><a href="http://modeldrivensoftware.net">Visit <em>The Model Driven Software Network</em></a></small><br />
