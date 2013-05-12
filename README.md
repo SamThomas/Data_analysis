@@ -1,6 +1,6 @@
-**********************************************
+**************************************************
 # Data analysis program using Java and JFreeChart
-******************************************
+***************************************************
 ![Chart](http://www.webappers.com/img/2007/10/jfreechart.png "Example of 3D chart")
 ## What is JFreeChart?
 
