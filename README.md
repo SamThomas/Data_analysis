@@ -26,5 +26,6 @@ The original and reference implementation Java compilers, virtual machines, and 
 
 ### License
 
+[MIT](http://opensource.org/licenses/MIT "MIT")
 ![MIT](http://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg "MIT")
 
