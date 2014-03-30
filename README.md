@@ -25,7 +25,7 @@ The original and reference implementation Java compilers, virtual machines, and 
 
 ### License [MIT](http://opensource.org/licenses/MIT "MIT")
 
-Copyright (c)
+Copyright Samuel Thomas (c)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
