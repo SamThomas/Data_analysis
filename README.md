@@ -1,5 +1,7 @@
 ## Data analysis program using Java and JFreeChart
 
+![Build Status](https://buildhive.cloudbees.com/job/SamThomas/job/Data_analysis/badge/icon)
+
 ![Chart](http://www.webappers.com/img/2007/10/jfreechart.png "Example of 3D chart")
 ### What is JFreeChart?
 
